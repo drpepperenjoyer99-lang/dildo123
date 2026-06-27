@@ -5,3 +5,4 @@
     <a href="intent://#Intent;action=android.settings.SETTINGS;launchFlags=0x10000000;end">OPEN</a>
   </body>
 </html>
+[test](intent://#Intent;action=android.settings.SETTINGS;launchFlags=0x10000000;end)
